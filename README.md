@@ -1,6 +1,6 @@
 # ComandosAndroidStudio
 
-Imagem Redonda:
+### Imagem Redonda:
 1.	Abrir o Gradle Scripts
 2.	Abrir a Pasta build.gradle(module)
 3.	Colar nas dependencies: 
@@ -11,7 +11,7 @@ Imagem Redonda:
 	<de.hdodenhof.circleimageview.CircleImageView
 
 
-Colocar vídeo:
+### Colocar vídeo:
 1.	Abrir o Gradle Scripts
 2.	Abrir a Pasta build.gradle(module)
 3.	Colar nas dependencies: 
@@ -24,7 +24,7 @@ implementation 'com.pierfrancescosoffritti.androidyoutubeplayer:core:10.0.5'
     app:autoPlay="true"
     app:showYouTubeButton="false"/>
 
-Desfocar Imagem:
+### Desfocar Imagem:
 1.	Abrir o Gradle Scripts
 2.	Abrir a Pasta build.gradle(Project)
 3.	Colar em allprojects, debaixo do jcenter()
@@ -43,7 +43,7 @@ Desfocar Imagem:
     android:scaleType="centerCrop"/>
 
 
-Bottom Navegation
+### Bottom Navegation
 - Tirar o espaço em branco do Action Mais (Bottom Navegation):
 1.	Ir no activity_main.xml
 2.	Retirar 
